@@ -1,2 +1,2 @@
-## Clustering Exercises
+## Time-Series Exercises
 #### codeup/innis
