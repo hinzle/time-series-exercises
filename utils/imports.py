@@ -1,10 +1,11 @@
-# local_host
+# env
 import sys
-sys.path.insert(0, '/Users/hinzlehome/codeup-data-science/clustering-project/.env')
+sys.path.insert(0, '/Users/hinzlehome/codeup-data-science/time-series-exercises/.env/')
 from env import get_db_url
 
-import os
+# local-host
 import requests
+import os
 
 # python data science library's
 import math
