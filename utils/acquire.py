@@ -1,5 +1,5 @@
 '''
-Module doc string
+This module is built to pull HEB store, item, and sales data. The three tables are then merged.
 '''
 
 
