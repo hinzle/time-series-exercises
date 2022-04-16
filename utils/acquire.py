@@ -2,7 +2,6 @@
 This module is built to pull HEB store, item, and sales data. The three tables are then merged.
 '''
 
-
 import sys
 sys.path.insert(0, '/Users/hinzlehome/codeup-data-science/time-series-exercises/utils')
 from imports import *

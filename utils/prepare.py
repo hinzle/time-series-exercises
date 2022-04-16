@@ -6,7 +6,6 @@ import sys
 sys.path.insert(0, '/Users/hinzlehome/codeup-data-science/time-series-exercises/utils')
 from imports import *
 
-
 def prep_store_data(df):
 	'''
 	doc string
