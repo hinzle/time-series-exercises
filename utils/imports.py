@@ -13,6 +13,10 @@ import math
 import numpy as np
 import pandas as pd
 from scipy import stats
+
+# sci-kit-learn modules
+from sklearnex import patch_sklearn
+patch_sklearn()
 from sklearn.cluster import KMeans
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.feature_selection import SelectKBest, RFE, f_regression
